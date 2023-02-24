@@ -9,7 +9,7 @@ android {
     compileSdk = AppConfig.compileSdk
 
     defaultConfig {
-        applicationId = "com.example.m7hw1"
+        applicationId = "com.example.lesson7_3"
         minSdk = AppConfig.minSdk
         targetSdk = AppConfig.targetSdk
         versionCode = 1
